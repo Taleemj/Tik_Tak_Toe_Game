@@ -1,4 +1,4 @@
-# A Tik Tak Toe game in
+# A Tik Tak Toe web game in
 
 ## HTML
 
